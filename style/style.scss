@@ -156,14 +156,16 @@ html {
             
 
             .statistics-num_logo {
+                padding: 0 1rem;
                 display: flex;
-                justify-content: space-around;
+                justify-content: space-between;
                 width: 90%;
             }
             .statistics-num_data {
+                padding: 0 1rem;
                 color: white;
                 display: flex;
-                justify-content: space-around;
+                justify-content: space-between;
                 align-items: center;
                 width: 90%;
                 font-size: 2rem;
